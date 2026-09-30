@@ -1,6 +1,12 @@
 {
 	"building.hota.factory.factory.dwellingUpLvl7.description" : "The Serpentarium allows you to recruit Crimson Couatls or Quetzalcouatls.",
 	"building.hota.factory.factory.dwellingUpLvl8.description" : "The Gantry allows you to recruit Juggernauts and Onslaughts.",
+	"building.the-lost-tales.hota-compatibility.bulwark.dwellingUpLvl2alt.description" : "The Upg. Frigid Spur allows you to recruit Argali or Snow Ram.",
+	"building.the-lost-tales.hota-compatibility.bulwark.dwellingUpLvl2alt.name" : "Upg. Frigid Spur",
+	"building.the-lost-tales.hota-compatibility.factory.dwellingUpLvl7alt.description" : "The Serpentarium allows you to recruit Crimson Couatls or Quetzalcouatls.",
+	"building.the-lost-tales.hota-compatibility.factory.dwellingUpLvl7alt.name" : "Upg. Serpentarium",
+	"building.the-lost-tales.hota-compatibility.factory.dwellingUpLvl8alt.description" : "The Gantry allows you to recruit Juggernauts and Onslaughts.",
+	"building.the-lost-tales.hota-compatibility.factory.dwellingUpLvl8alt.name" : "Upg. Gantry",
 	"creatures.hota.bulwark.warMammoth.bonus.showTheIcon" : "{Defense Bonus}\nReceives +100% Defense while defending in combat.",
 	"hero.core.aeris.specialty.description" : "Increases the Speed of allied Pegasi and Silver Pegasi by 1 and their Attack and Defense skills by 20% for every 4 levels (rounded up).",
 	"hero.core.ajit.specialty.description" : "Increases the Speed of allied Beholders, Evil Eyes and Cursed Eyes by 1 and their Attack and Defense skills by 20% for every 3 levels (rounded up).",

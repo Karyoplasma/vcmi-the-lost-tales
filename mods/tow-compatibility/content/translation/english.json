@@ -1,4 +1,5 @@
 {
+	"creatures.tides-of-war.alternative-creatures.mdtCouatl.bonus.stoneGazeImm" : "{Unbounded}\nImmunity for all creature spell-like abilities like Bind, Age, Poison or Death Stare",
 	"creatures.tides-of-war.alternative-creatures.mdtCouatl.name.plural" : "Feathered Serpents",
 	"creatures.tides-of-war.alternative-creatures.mdtCouatl.name.singular" : "Feathered Serpent",
 	"creatures.tides-of-war.alternative-creatures.mdtPaladin.bonus.castsPrayer" : "{Pray}\nPaladins cast Adv. Prayer spell at the beginning of the battle",
@@ -21,5 +22,6 @@
 	"hero.tides-of-war.heroes.mdtThyroc.name" : "Thyroc",
 	"hero.tides-of-war.heroes.mdtThyroc.specialty.description" : "Increases the speed of any Hydras, Chaos Hydras and Flying Hydras by 1 and their Attack and Defense skills by 5% for every 7 levels (rounded up).",
 	"hero.tides-of-war.heroes.mdtThyroc.specialty.name" : "Hydras",
-	"hero.tides-of-war.heroes.mdtThyroc.specialty.tooltip" : "Creature Bonus: Hydras"
+	"hero.tides-of-war.heroes.mdtThyroc.specialty.tooltip" : "Creature Bonus: Hydras",
+	"mapObject.the-lost-tales.tow-compatibility.creatureGeneratorCommon.BarrowMound.name" : "Barrow Mound"
 }
